@@ -76,5 +76,3 @@ Avinya is a state-of-the-art workflow automation platform designed to streamline
 - **AI Governance**: Non-identifiable data handling ensures employee privacy during AI analysis.
 
 ---
-
-Built with ❤️ for a more efficient workplace.
